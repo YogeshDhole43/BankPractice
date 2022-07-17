@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-17T19:00:41 IST" name="Default suite" finished-at="2022-07-17T19:01:45 IST" duration-ms="63942">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T19:00:41 IST" name="Default test" finished-at="2022-07-17T19:01:45 IST" duration-ms="63942">
+      <class name="test.TestClass">
+        <test-method is-config="true" signature="browser_launch()[pri:0, instance:test.TestClass@78691363]" started-at="2022-07-17T19:00:41 IST" name="browser_launch" finished-at="2022-07-17T19:01:17 IST" duration-ms="36290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method signature="loginverify(java.lang.String,java.lang.String)[pri:0, instance:test.TestClass@78691363]" started-at="2022-07-17T19:01:19 IST" name="loginverify" data-provider="testdata" finished-at="2022-07-17T19:01:35 IST" duration-ms="15902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr423832]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[basuvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginverify -->
+        <test-method signature="loginverify(java.lang.String,java.lang.String)[pri:0, instance:test.TestClass@78691363]" started-at="2022-07-17T19:01:35 IST" name="loginverify" data-provider="testdata" finished-at="2022-07-17T19:01:37 IST" duration-ms="2591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr423832]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mngr423832]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginverify -->
+        <test-method signature="loginverify(java.lang.String,java.lang.String)[pri:0, instance:test.TestClass@78691363]" started-at="2022-07-17T19:01:37 IST" name="loginverify" data-provider="testdata" finished-at="2022-07-17T19:01:40 IST" duration-ms="2596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lsjdt2314568]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[basuvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginverify -->
+        <test-method signature="loginverify(java.lang.String,java.lang.String)[pri:0, instance:test.TestClass@78691363]" started-at="2022-07-17T19:01:40 IST" name="loginverify" data-provider="testdata" finished-at="2022-07-17T19:01:43 IST" duration-ms="2584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdlhsf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jsbfjsb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginverify -->
+        <test-method is-config="true" signature="browser_close()[pri:0, instance:test.TestClass@78691363]" started-at="2022-07-17T19:01:43 IST" name="browser_close" finished-at="2022-07-17T19:01:45 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
